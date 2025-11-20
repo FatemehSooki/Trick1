@@ -1,7 +1,7 @@
 # Trick1: before/after
 
 
-- [Demo Project](https://fatemehsooki.github.io/Flex/)
+- [Demo Project](https://fatemehsooki.github.io/Trick1/)
   
 - Developed by Fatemeh Sooki
 
